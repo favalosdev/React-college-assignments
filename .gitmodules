@@ -1,0 +1,15 @@
+[submodule "i18n"]
+	path = i18n
+	url = https://github.com/favalosdev/i18n
+[submodule "a11y-examples"]
+	path = a11y-examples
+	url = https://github.com/favalosdev/a11y-examples
+[submodule "react-demo-app"]
+	path = react-demo-app
+	url = https://github.com/favalosdev/react-demo-app
+[submodule "react-rick-and-morty"]
+	path = react-rick-and-morty
+	url = https://github.com/favalosdev/react-rick-and-morty
+[submodule "react-cypress-test"]
+	path = react-cypress-test
+	url = https://github.com/favalosdev/react-cypress-test
